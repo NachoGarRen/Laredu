@@ -136,7 +136,7 @@ O descarga e importa el archivo Laredu.sql en backend/database/laredu.sql
 ---
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la licencia MIT.
 
 ---
 
