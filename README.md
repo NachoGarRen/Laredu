@@ -132,6 +132,7 @@ Para generar datos de ejemplo, ejecuta:
 php artisan db:seed
 ```
 O descarga e importa el archivo Laredu.sql en backend/database/laredu.sql
+
 ---
 
 ## Licencia
