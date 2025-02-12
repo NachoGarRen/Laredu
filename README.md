@@ -127,7 +127,11 @@ Para generar las tablas, ejecuta:
 ```sh
 php artisan migrate
 ```
-
+Para generar datos de ejemplo, ejecuta:
+```sh
+php artisan db:seed
+```
+O descarga e importa el archivo Laredu.sql en backend/database/laredu.sql
 ---
 
 ## Licencia
